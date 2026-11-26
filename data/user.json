@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Almin",
+    "age": 21,
+    "budget": 5000,
+    "credit": 33000,
+    "currency": "eur"
+  }
+]

@@ -1,0 +1,3 @@
+Ammount: 500, User: 1, Budget: 38000, Preostali budzet: 37500
+Ammount: 1000, User: 1, Budget: 38000, Preostali budzet: 37000
+Ammount: 2000, User: 1, Budget: 38000, Preostali budzet: 36000, Datetime: 2026-11-26
