@@ -12,4 +12,3 @@ with open("data/user.json", "r") as file:
 with open("data/user.json", "w") as file:
     json.dump(data, file, indent=4)
 
-    print(data)
